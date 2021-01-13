@@ -25,7 +25,7 @@ export default function Portfolio(){
             title={project.title}
             image={project.image}
             repository={project.repository}
-            livelink={project.livelink}
+            livelink={project.liveLink}
             description={project.description}
             />
         ))}
