@@ -1,7 +1,7 @@
 [{
         "id": 1,
         "title": "Project 1",
-        "image": "./Assets/Project1.png",
+        "image": "Project1.png",
         "repository": "https://github.com/joedip16/project1",
         "liveLink": "https://joedip16.github.io/project1/",
         "description": "This is a Website that can be used to search for state parks in New Jersey and see the current weather and 5 day forecast at those locations"
@@ -9,7 +9,7 @@
         {
         "id": 2,
         "title": "Mindful Meals",
-        "image": "./Assets/project2pic.png",
+        "image": "project2pic.png",
         "repository": "https://github.com/AnjaliKevadiya/Mindful-Meals",
         "liveLink": "https://mindful-meals-bc.herokuapp.com/",
         "description": "This application will help the user keep track of the amount of nutrients you are eating by letting the user search for foods and telling the user the important information such as calories, protein, fat, and more"
@@ -17,7 +17,7 @@
         {
         "id": 3,
         "title": "Phone Eats First (Coming soon)",
-        "image": "https://image.shutterstock.com/image-vector/default-ui-image-placeholder-wireframes-260nw-1037719192.jpg",
+        "image": "project2pic.png",
         "repository": "https://github.com/AnjaliKevadiya/phone-eats-first",
         "liveLink": "(Coming soon)",
         "description": "This app will let the user take pictures of food they order at restaurants, rate them, and share them with others. Other users will also be able to rate and comment on the picture"
@@ -25,15 +25,15 @@
         {
         "id": 4,
         "title": "Fitness Tracker",
-        "image": "./Assets/project2pic.png",
+        "image": "https://friendlystock.com/wp-content/uploads/2019/06/0e-muscular-heart-lifting-dumbbells-cartoon-clipart.jpg",
         "repository": "https://github.com/joedip16/fitness_tracker",
         "liveLink": " https://fitnesstrackerbootcamp.herokuapp.com/?id=5fe1162bffacda0017fef5f7",
        "description": "This app allows the user to keep track of cardio and resistance workouts by inputing the duration, number of sets, and how much weight. This app will keep track of the users progress and present the data in a chart."
         },
         {
          "id": 5,
-        "title": "Homework 2",
-        "image": "./Assets/UserDirectory.png",
+        "title": "User Directory",
+        "image": "UserDirectory.png",
         "repository": "https://github.com/joedip16/user_directory",
         "liveLink": "https://joedip16.github.io/user_directory/",
         "description": "This app will let the user search for employees by their first and last names. The user can also click on the name column and the employees will sort in alphabetical order"
@@ -41,7 +41,7 @@
         {
         "id": 6,
         "title": "Day Planner",
-        "image": "./Assets/DayPlanner.png",
+        "image": "DayPlanner.png",
         "repository": "https://github.com/joedip16/day_planner",
         "liveLink": "https://joedip16.github.io/day_planner/",
         "description": "This App will allow the user to plan out their work schedule by writing events in the timeslot and saving them to local storage so they are available if the user leaves the page and comes back"

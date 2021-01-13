@@ -7,8 +7,9 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
     gridList: {
-      width: 500,
-      height: 450,
+      width: "100%",
+      height: 1000,
+      justifyContent: "center"
     },
     
   }));
@@ -18,7 +19,7 @@ export default function Portfolio(){
     const classes =useStyles()
     return (
     <div><Typography>Portfolio</Typography>
-    <GridList cellHeight={180} className={classes.gridList}>
+    <GridList className={classes.gridList} cols={3}>
         {projects.map((project, i) => (
             <ProjectCard 
             key={i}
